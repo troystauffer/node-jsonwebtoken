@@ -19,7 +19,7 @@
     "url": "https://github.com/auth0/node-jsonwebtoken/issues"
   },
   "dependencies": {
-    "jws": "^3.0.0"
+    "jws": "git://github.com/troystauffer/node-jws#master"
   },
   "devDependencies": {
     "atob": "^1.1.2",
